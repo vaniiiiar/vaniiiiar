@@ -1,36 +1,28 @@
-<h1 align="center">Hi 👋, I'm Vania Rahmawati</h1>
-<h3 align="center">A passionate frontend developer from Indonesia</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vanirahma&label=Profile%20views&color=0e75b6&style=flat" alt="vanirahma" />
-</p>
-
-- 🔭 I’m currently working on **E-commerce Project**
-- 🌱 I’m currently learning **React Native**
-- 👯 I’m looking to collaborate on **Open Source Projects**
-- 💬 Ask me about **JavaScript, React, UI/UX**
-- 📫 How to reach me **vania@example.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vanirahma" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vanirahma" height="30" width="40" />
+<div align="center">
+  <!-- Animated Toy Story Text -->
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Waltograph+UI&weight=600&size=40&duration=4000&color=F7D117&background=FFFFFF00&center=true&vCenter=true&width=500&height=80&lines=Hi+There!;Welcome+to+my+profile!" alt="Toy Story Style Text" />
   </a>
-  <a href="https://instagram.com/vanirahma" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanirahma" height="30" width="40" />
-  </a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-</p>
+  <!-- Woody and Buzz GIF -->
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanirahma&show_icons=true&locale=en&layout=compact" alt="vanirahma" /></p>
+  <!-- Cloud Animation -->
+  <img src="https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif" width="300">
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vanirahma&" alt="vanirahma" /></p>
+<!-- Add this in your CSS section or style tag -->
+<style>
+  .toy-story-text {
+    font-family: 'Waltograph', 'Waltograph UI', cursive;
+    color: #F7D117;
+    text-shadow: 3px 3px 0 #E3256B, 6px 6px 0 #0095DD;
+    font-size: 2.5rem;
+    animation: bounce 1.5s infinite;
+  }
+  
+  @keyframes bounce {
+    0%, 100% { transform: translateY(0); }
+    50% { transform: translateY(-15px); }
+  }
+</style>
