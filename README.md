@@ -45,34 +45,14 @@
 
 ---
 
-## 🌟 Featured Projects
+
+## 📫 Reach Me
 
 <div align="center">
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=your-repo&theme=tokyonight)](https://github.com/yourusername/your-repo)
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=another-repo&theme=tokyonight)](https://github.com/yourusername/another-repo)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/vaniiiaar_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaniarahmawati252@gmail.com)
 
 </div>
 
 ---
-
-<div align="center">
-  
-  <!-- Cloud Animation Footer -->
-  <img src="https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif" width="250">
-  
-  <p>🎮 <i>To infinity and beyond!</i> 🎮</p>
-
-</div>
-
-<!-- Style for additional animations -->
-<style>
-  .divider {
-    height: 3px;
-    background: linear-gradient(90deg, #E3256B, #F7D117, #0095DD);
-    border: none;
-    margin: 2rem 0;
-    border-radius: 3px;
-  }
-</style>
