@@ -3,8 +3,6 @@
   <h1 class="toy-story-header">🚀 Welcome to my profile! 🚀</h1>
   
   <img src="https://media.tenor.com/zEKLXooCqbAAAAAM/woody-buzz.gif" width="300" alt="Woody and Buzz">
-  
-  <img src="https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif" width="250">
 </div>
 
 <style>
