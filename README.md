@@ -5,7 +5,7 @@
   <img src="https://media.tenor.com/zEKLXooCqbAAAAAM/woody-buzz.gif" width="300" alt="Woody and Buzz">
 </div>
 
-# 👋 Hello, I'm Vania!
+# I'm Vania!
 
 ## 📫 How to reach me
-[![Instagram](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.instagram.com/vaniiiaar_)
+[![Instagram](https://img.shields.io/badge/-Instagram-0077B5?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/vaniiiaar_)
