@@ -2,7 +2,7 @@
   
   <!-- Animated Toy Story Header -->
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Emoji&weight=600&size=32&duration=3000&color=F7D117&background=FFFFFF00&center=true&vCenter=true&width=500&height=80&lines=✨+Hi+There!+✨;🚀+Welcome+to+my+profile!" alt="Toy Story Style Text" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Segoe+UI+Emoji&weight=600&size=32&duration=3000&color=F7D117&background=FFFFFF00&center=true&vCenter=true&width=500&height=80&lines=✨+Hi+There!+✨;"I'm VANIA RAHMAWATI;🚀+Welcome+to+my+profile!" alt="Toy Story Style Text" />
   </a>
 
   <br>
