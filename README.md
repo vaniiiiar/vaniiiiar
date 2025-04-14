@@ -1,28 +1,24 @@
 <div align="center">
-  <!-- Animated Toy Story Text -->
-  <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Waltograph+UI&weight=600&size=40&duration=4000&color=F7D117&background=FFFFFF00&center=true&vCenter=true&width=500&height=80&lines=Hi+There!;Welcome+to+my+profile!" alt="Toy Story Style Text" />
-  </a>
-
-  <!-- Woody and Buzz GIF -->
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="200">
-
-  <!-- Cloud Animation -->
-  <img src="https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif" width="300">
+  <h1 class="toy-story-header">✨ Hi There! ✨</h1>
+  <h1 class="toy-story-header">🚀 Welcome to my profile! 🚀</h1>
+  
+  <img src="https://media.tenor.com/zEKLXooCqbAAAAAM/woody-buzz.gif" width="300" alt="Woody and Buzz">
+  
+  <img src="https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif" width="250">
 </div>
 
-<!-- Add this in your CSS section or style tag -->
 <style>
-  .toy-story-text {
-    font-family: 'Waltograph', 'Waltograph UI', cursive;
+  .toy-story-header {
+    font-family: 'Comic Sans MS', cursive;
     color: #F7D117;
-    text-shadow: 3px 3px 0 #E3256B, 6px 6px 0 #0095DD;
+    text-shadow: 3px 3px 0 #E3256B, 5px 5px 0 #0095DD;
+    animation: bounce 1.8s infinite;
     font-size: 2.5rem;
-    animation: bounce 1.5s infinite;
+    margin: 10px 0;
   }
   
   @keyframes bounce {
     0%, 100% { transform: translateY(0); }
-    50% { transform: translateY(-15px); }
+    50% { transform: translateY(-10px) rotate(2deg); }
   }
 </style>
